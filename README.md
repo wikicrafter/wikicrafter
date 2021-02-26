@@ -1,6 +1,6 @@
 # Hi there 👋
 
-wikicrafter** is a ✨ _special_ ✨
+wikicrafter is a ✨ _special_ ✨
 
 <!--
 
