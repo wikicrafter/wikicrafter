@@ -1,6 +1,7 @@
 # Hi there 👋
 
 wikicrafter is a ✨ _special_ ✨
+![wikicrafter](wikicrafter-2021.stl)
 
 <!--
 
