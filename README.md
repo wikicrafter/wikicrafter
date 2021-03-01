@@ -4,7 +4,7 @@ wikicrafter is a ✨ _special_ ✨
 ![wikicrafter](anim/wikicrafter.png)
 
 
-![stat](https://github-readme-stats.vercel.app/api?username=wikicrafter&theme=chartreuse-dark&count_private=true&show_icons=true)
+
 
 <!--
 
