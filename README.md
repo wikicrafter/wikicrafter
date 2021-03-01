@@ -2,6 +2,7 @@
 
 wikicrafter is a ✨ _special_ ✨
 ![wikicrafter](anim/wikicrafter.png)
+![most languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wikicrafter)
 
 <!--
 
