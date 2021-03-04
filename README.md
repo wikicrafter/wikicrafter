@@ -1,8 +1,8 @@
 # Hi there 👋
 
+
 wikicrafter is a ✨ _special_ ✨
 ![wikicrafter](anim/wikicrafter.png)
-
 
 
 
