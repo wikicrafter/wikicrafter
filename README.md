@@ -2,6 +2,8 @@
 
 
 wikicrafter is a ✨ _special_ ✨
+![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FAnchabadzeGiga)
+
 ![wikicrafter](anim/wikicrafter.png)
 
 
