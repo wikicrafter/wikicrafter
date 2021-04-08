@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-wikicrafter is a ✨ _special_ ✨
+Be a ✨ _special_ ✨
 
 <!--[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y134NET)
 -->
