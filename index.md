@@ -1,10 +1,9 @@
 # Hi there 
 ### Welcome to my page (It's under development)
-#### Hope you are doing good
+### Hope you are doing good
 
-<style>body {background-color: white;}</style>
 
-# My name is Giga 
+## My name is Giga 
 ## I'm a computer science guy, who likes this field and I'm damn keen to improve my skill every day in my life 
 
 
@@ -22,15 +21,15 @@
 
 
 ### My favorite quotes which inspire me to learn:
-> The expert in anything was once a biginner
-> Believe you can and you are halfway there
-> Without knowledge action is useless 
-> Forget your past, forget yourself and begin again right now
-> Our greatest glory is not in never falling, but in rising every time we fall. 
-> The secret of getting ahead is getting started
+> The expert in anything was once a biginner <br>
+> Believe you can and you are halfway there <br>
+> Without knowledge action is useless <br>
+> Forget your past, forget yourself and begin again right now <br>
+> Our greatest glory is not in never falling, but in rising every time we fall <br> 
+> The secret of getting ahead is getting started 
 
 
 
 
-You can check my: [Projects](./Projects)    [Education](./Education)    [Contact Me](./Contact)    [About Me](./aboutme)
+## You can check my:  [Projects](./Projects)    [Education](./Education)    [Contact Me](./Contact)    [About Me](./aboutme)
 
