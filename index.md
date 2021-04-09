@@ -1,10 +1,13 @@
+# Hi there 
 ## Welcome to my page
+# Hope you are doing good
 
-[About Me](https://wikicrafter.github.io/wikicrafter/aboutme)
+[About Me](./aboutme)
 
-You can use the [editor on GitHub](https://github.com/wikicrafter/wikicrafter/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# My name is Giga 
+## I'm computer science guy, who likes this field and I'm keen to improve my skill each day in my life 
+
 
 ### Markdown
 
