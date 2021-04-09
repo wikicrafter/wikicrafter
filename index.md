@@ -6,10 +6,10 @@
 
 
 # My name is Giga 
-## I'm computer science guy, who likes this field and I'm keen to improve my skill each day in my life 
+## I'm computer science guy, who likes this field and I'm damn keen to improve my skill every day in my life 
 
 
-### Markdown
+### What do I like in this field? <br>Well, many topics like a: * Data Science & AI * Software Development * Web Development * Cloud infrastructure * Network Engineering
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
