@@ -1,19 +1,19 @@
 # Hi there 
 ## Welcome to my page
 # Hope you are doing good
-<h1 style="color:blue;">A Blue Heading</h1>
+
 
 [About Me](./aboutme)
 # My name is Giga 
 ## I'm computer science guy, who likes this field and I'm damn keen to improve my skill every day in my life 
 
 
-### What do I like in this field? <br>Well, many topics like a: 
- * Data Science & AI 
- * Software Development 
- * Web Development 
- * Cloud infrastructure 
- * Network Engineering
+<h1 style="color:white";> What do I like in this field? <br>Well, many topics like a:</h1> 
+ 1. Data Science & AI 
+ 2. Software Development 
+ 3. Web Development 
+ 4. Cloud infrastructure 
+ 5. Network Engineering
 
 
 My favorite quotes which inspire me to learn:
