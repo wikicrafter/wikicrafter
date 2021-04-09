@@ -10,11 +10,11 @@
 
 
 ### What do I like in this field? <br>Well, many topics like a: 
-* Data Science & AI 
-* * Software Development 
-* * Web Development 
-* * Cloud infrastructure 
-* * Network Engineering
+ * Data Science & AI 
+ * Software Development 
+ * Web Development 
+ * Cloud infrastructure 
+ * Network Engineering
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
