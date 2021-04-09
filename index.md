@@ -8,7 +8,7 @@
 ## I'm computer science guy, who likes this field and I'm damn keen to improve my skill every day in my life 
 
 
-<h1 style="color:white;"> What do I like in this field? <br>Well, many topics like a:</h1> 
+<h3 style="color:white;"> What do I like in this field? <br>Well, many topics like a:</h3> 
  1. Data Science & AI 
  2. Software Development 
  3. Web Development 
@@ -16,7 +16,11 @@
  5. Network Engineering
 
 
-My favorite quotes which inspire me to learn:
+
+
+
+
+### My favorite quotes which inspire me to learn:
 
 
 
