@@ -8,11 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-Anchabadze Giga
-( გიორგი )
-A passionate individual who always aspire to work on end to end products which develop sustainable and scalable social and technical systems to create impact.
+```markdownle and scalable social and technical systems to create impact.
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
