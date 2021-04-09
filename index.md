@@ -14,18 +14,15 @@
  * Cloud infrastructure 
  * Network Engineering
 
----
-title: title
-date: "2016-01-15"
-language: language
-rights: rights
-description: description
-creator: Rowan Ono
-creator: Danielle Idra
-contributor: Ida Davis
----
+
+My favorite quotes which inspire me to learn:
 
 
 
-For more information klick down below: 
+
+Want to get more about me check my:
+* [Projects](./Projects)
+* [Education](./Education)
+* [Contact Me](./Contact)
+
 
