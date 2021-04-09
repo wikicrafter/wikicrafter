@@ -8,7 +8,7 @@
 ## I'm computer science guy, who likes this field and I'm damn keen to improve my skill every day in my life 
 
 
-<h1 style="color:white";> What do I like in this field? <br>Well, many topics like a:</h1> 
+<h1 style="color:white;"> What do I like in this field? <br>Well, many topics like a:</h1> 
  1. Data Science & AI 
  2. Software Development 
  3. Web Development 
