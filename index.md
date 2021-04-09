@@ -1,11 +1,11 @@
 # Hi there 
-## Welcome to my page
-# Hope you are doing good
+### Welcome to my page
+#### Hope you are doing good
 
-
+<style>body {background-color: white;}</style>
 
 # My name is Giga 
-## I'm computer science guy, who likes this field and I'm damn keen to improve my skill every day in my life 
+## I'm a computer science guy, who likes this field and I'm damn keen to improve my skill every day in my life 
 
 
 <h3 style="color:rgb(8, 9, 54);"> What do I like in this field? <br>Well, many topics like a:</h3> 
@@ -26,7 +26,4 @@
 
 
 You can check my: [Projects](./Projects)    [Education](./Education)    [Education](./Education)    [Contact Me](./Contact)    [About Me](./aboutme)
-* [Projects](./Projects)
-* [Education](./Education)
-* [Contact Me](./Contact)
-* [About Me](./aboutme)
+
