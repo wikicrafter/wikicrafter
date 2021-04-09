@@ -25,5 +25,5 @@
 
 
 
-You can check my: [Projects](./Projects)    [Education](./Education)    [Education](./Education)    [Contact Me](./Contact)    [About Me](./aboutme)
+You can check my: [Projects](./Projects)    [Education](./Education)    [Contact Me](./Contact)    [About Me](./aboutme)
 
