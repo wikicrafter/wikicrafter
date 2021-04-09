@@ -1,6 +1,7 @@
 # Hi there 
 ## Welcome to my page
 # Hope you are doing good
+<h1 style="color:blue;">A Blue Heading</h1>
 
 [About Me](./aboutme)
 # My name is Giga 
