@@ -3,7 +3,7 @@
 # Hope you are doing good
 
 
-[About Me](./aboutme)
+
 # My name is Giga 
 ## I'm computer science guy, who likes this field and I'm damn keen to improve my skill every day in my life 
 
@@ -29,5 +29,4 @@ Want to get more about me check my:
 * [Projects](./Projects)
 * [Education](./Education)
 * [Contact Me](./Contact)
-
-
+* [About Me](./aboutme)
