@@ -5,7 +5,7 @@
 
 
 # Blogs
-I like to write powerful lessons whichcreate impact on each of the reader individually to change the core of their character.
+I like to write powerful lessons which create impact on each of the reader individually to change the core of their character.
 
 
 
