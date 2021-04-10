@@ -14,6 +14,6 @@ I like to write powerful lessons which create impact on each of the reader indiv
 
 
 
-# Address
-Anna Politkovskaia str, Saburtalo, Tbilisi, Georgia
+# Address <br>
+Anna Politkovskaia str, Saburtalo, Tbilisi, Georgia <br>
 Phone Number: (+995) 599400135
