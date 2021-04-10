@@ -2,10 +2,11 @@
 ### Welcome to my page (It's under development)
 ### Hope you are doing good
 
-<h3 style="color:rgb(181, 232, 83);">⭐Star me on <a href="https://github.com/wikicrafter"> Github </a></h3>
+
 
 
 ## My name is Giga 
+## [⭐](https://github.com/wikicrafter)Star me on Github [⭐](https://github.com/wikicrafter)
 ## I'm a computer science guy, who likes this field and I'm damn keen to improve my skill every day in my life 
 
 
