@@ -9,3 +9,20 @@
 
 
 Basic qualification and certifications: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Main Page](./index)
