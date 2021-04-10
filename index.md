@@ -31,5 +31,5 @@
 
 
 
-## You can check my:  [Projects](./Projects)    [Education](./Education)    [Contact Me](./Contact)    
+## You can check my:  [Projects](./Projects)    [Education](./Education)    [Contact Me](./Contact.md)    
 
