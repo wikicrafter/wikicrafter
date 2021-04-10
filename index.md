@@ -2,7 +2,7 @@
 ### Welcome to my page (It's under development)
 ### Hope you are doing good
 
-### ⭐Star me on Github
+<h3 style="color:rgb(181, 232, 83);">⭐Star me on <a href="https://github.com/wikicrafter"> Github </a></h3>
 
 
 ## My name is Giga 
