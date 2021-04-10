@@ -2,6 +2,8 @@
 ### Welcome to my page (It's under development)
 ### Hope you are doing good
 
+### ⭐Star me on Github
+
 
 ## My name is Giga 
 ## I'm a computer science guy, who likes this field and I'm damn keen to improve my skill every day in my life 
