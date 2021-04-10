@@ -1,6 +1,6 @@
 # Contact Me
 
-> I am available on almost every social media. 
+> I am available on almost every [social media](./socialmedia.md). 
 > You can message me, I will reply within 24 hours. I can help you with OS, React, Python,  Cloud and Opensource Development.
 
 
