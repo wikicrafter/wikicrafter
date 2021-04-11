@@ -1,9 +1,7 @@
 # Hi there 
 ### Welcome to my page (It's under development)
 ### Hope you are doing good
-<head>
-<link rel="icon" type="image/x-icon" href="favicon.ico">
-</head>
+
 
 ## My name is Giga 
 ## [⭐](https://github.com/wikicrafter)Star me on Github [⭐](https://github.com/wikicrafter)
