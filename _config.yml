@@ -4,6 +4,3 @@ theme: jekyll-theme-hacker
 permalink: /404.html
 ---
 
-x-icon: /favicon.ico
-
-layout: /default 
