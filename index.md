@@ -2,7 +2,7 @@
 ### Welcome to my page (It's under development)
 ### Hope you are doing good
 
-
+<link rel="icon" type="./favicon.ico" href="favicon.ico">
 
 
 ## My name is Giga 
