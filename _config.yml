@@ -4,4 +4,7 @@ theme: jekyll-theme-hacker
 permalink: /404.html
 ---
 
+# <head>
+#<link rel="icon" type="image/x-icon" href="favicon.ico">
+#</head>
 
