@@ -27,6 +27,10 @@ If you like my repositories, maby u consider buying me a coffee <a href='https:/
 You can reach me on <a href="https://twitter.com/AnchabadzeGiga"><img align="middle" alt="Anchabadze Giga | Twitter" width="21px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
+
+<a href="https://www.linkedin.com/in/"username/">
+  <img align="left" alt="User name's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
