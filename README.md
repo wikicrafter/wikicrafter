@@ -16,6 +16,8 @@ If you like my repositories, maby u consider buying me a coffee <br><a href='htt
 - 👯 I’m looking to collaborate on any useful opensource project
 
 
+
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wikicrafter&show_icons=true&theme=gotham" alt="wikicrafter" />
 
 ![wikicrafter](anim/wikicrafter.png)
@@ -27,6 +29,7 @@ If you like my repositories, maby u consider buying me a coffee <br><a href='htt
 You can reach me on <a href="https://twitter.com/AnchabadzeGiga"><img align="middle" alt="Anchabadze Giga | Twitter" width="21px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
+[![Top Languages I used](https://github-readme-stats.vercel.app/api/top-langs/?username=wikicrafter&layout=compact)](https://github.com/wikicrafter/github-readme-stats)
 
 <a href="https://www.linkedin.com/in/"username/">
   <img align="left" alt="User name's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
