@@ -1,5 +1,5 @@
-# Hi there 👋 <a href="https://twitter.com/AnchabadzeGiga"><img align="middle" alt="Anchabadze Giga | Twitter" width="39px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+# Hi there 👋
+
 
 
 
@@ -24,6 +24,8 @@ If you like my repositories, maby u consider buying me a coffee <a href='https:/
 
 <!--
 
+You can reach me on <a href="https://twitter.com/AnchabadzeGiga"><img align="middle" alt="Anchabadze Giga | Twitter" width="21px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
