@@ -20,8 +20,8 @@ If you like my repositories, maby you consider buying me a coffee <br>
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wikicrafter&show_icons=true&theme=gotham" alt="wikicrafter" />
-
+<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wikicrafter&show_icons=true&theme=gotham" alt="wikicrafter" />
+==>
 ![wikicrafter](anim/wikicrafter.png)
 
 
