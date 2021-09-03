@@ -13,11 +13,11 @@ If you like my repositories, maby you consider buying me a coffee <br>
 
 
 - 🔭 I’m currently working on Python
+- 💻📱📍🗺 I'm available for freelance jobs as a python programmer
 - 🌱 I’m currently learning Ruby
 - 👯 I’m looking to collaborate on any useful opensource project
 - 📫 How to reach me: text me on <a href="https://twitter.com/AnchabadzeGiga"><img align="middle" alt="Anchabadze Giga | Twitter" width="19px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-
 
 
 <!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wikicrafter&show_icons=true&theme=gotham" alt="wikicrafter" />
