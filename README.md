@@ -1,5 +1,7 @@
 # Hi there 👋
 
+* 😎 I'm Giga (he/they)
+
 I'm huge fan of Open Source
 
 
