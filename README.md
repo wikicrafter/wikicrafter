@@ -2,8 +2,8 @@
 
 * 😎 I'm Giga (he/him or they/them)
 
-I'm huge fan of Open Source
-I'm not the professional developer at this point but I'm aspire to become 
+I'm huge fan of Open Source <br>
+
 
 
 Be a ✨ _special_ ✨
