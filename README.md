@@ -22,25 +22,25 @@ If you like my repositories, maybe you consider buying me a coffee
 - 💻📱📍🗺 I'm available for freelance jobs as a python programmer
 - 🌱 I’m currently learning Ruby
 - 👯 I’m looking to collaborate on any useful opensource project
-- 📫 How to reach me: text me on <a href="https://twitter.com/AnchabadzeGiga"><img align="middle" alt="Anchabadze Giga | Twitter" width="19px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+- 📫 How to reach me: text me on <a href="https://twitter.com/AnchabadzeGiga">Twitter <img align="middle" alt="Anchabadze Giga | Twitter"  height="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
+  [![Top Languages I used](https://github-readme-stats.vercel.app/api/top-langs/?username=wikicrafter&layout=compact)](https://github.com/wikicrafter/github-readme-stats)
+  
 
-<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wikicrafter&show_icons=true&theme=gotham" alt="wikicrafter" />
-==>
-![wikicrafter](anim/wikicrafter.png)
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=wikicrafter&show_icons=true&theme=gotham" alt="wikicrafter" /> 
+  
+ 
+
+
+  
+<!-- ![wikicrafter](anim/wikicrafter.png) -->
 
 
 
 <!--
 
-You can reach me on <a href="https://twitter.com/AnchabadzeGiga"><img align="middle" alt="Anchabadze Giga | Twitter" width="21px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 
-[![Top Languages I used](https://github-readme-stats.vercel.app/api/top-langs/?username=wikicrafter&layout=compact)](https://github.com/wikicrafter/github-readme-stats)
-
-<a href="https://www.linkedin.com/in/"username/">
-  <img align="left" alt="User name's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 
 <img src="images/image.jpg" align="left" />
 
