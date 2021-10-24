@@ -30,9 +30,11 @@ If you like my repositories, maybe you consider buying me a coffee
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=wikicrafter&show_icons=true&theme=gotham" alt="wikicrafter" /> 
   
- 
 
-![If you want to support me with digital currency you can scan my Binance](/anim/binance_receive.jpg)
+#### If you want to support me with digital currency here is my binance QR:
+
+<img src="/anim/binance_receive.jpg" alt="Binance" width="200" height="250">
+
   
 <!-- ![wikicrafter](anim/wikicrafter.png) -->
 
