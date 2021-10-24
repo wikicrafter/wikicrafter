@@ -32,7 +32,7 @@ If you like my repositories, maybe you consider buying me a coffee
   
  
 
-
+![If you want to support me with digital currency you can scan my Binance](/anim/binance_receive.jpg)
   
 <!-- ![wikicrafter](anim/wikicrafter.png) -->
 
