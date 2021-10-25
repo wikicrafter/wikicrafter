@@ -3,8 +3,9 @@
 * 😎 I'm Giga (he/him or they/them)
 
 I'm huge fan of Open Source <br>
-
-
+<hr>
+I'm looking for a mentor <br>
+<hr>
 
 Be a ✨ _special_ ✨
 
