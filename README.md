@@ -18,9 +18,8 @@ If you like my repositories, maybe you consider buying me a coffee
 <a href='https://ko-fi.com/Y8Y134NET' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <hr>
 
-
+<!-- 💻📱📍🗺 I'm available for freelance jobs as a python programmer-->
 - 🔭 I’m currently working on Python
-- 💻📱📍🗺 I'm available for freelance jobs as a python programmer
 - 🌱 I’m currently learning Ruby
 - 👯 I’m looking to collaborate on any useful opensource project
 - 📫 How to reach me: text me on <a href="https://twitter.com/AnchabadzeGiga">Twitter <img align="middle" alt="Anchabadze Giga | Twitter"  height="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
