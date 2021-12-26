@@ -21,9 +21,11 @@ If you like my repositories, maybe you consider buying me a coffee
 <!-- 💻📱📍🗺 I'm available for freelance jobs as a python programmer
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning Ruby
+- 💡 Feel free to give me advice, tips, and tricks
 -->
-
+- 🌱 I’m currently learning Ruby
 - 👯 I’m looking to collaborate on any useful opensource project
+- 💡  Feel free to give me advice, tips, and tricks
 - 📫 How to reach me: text me on <a href="https://twitter.com/AnchabadzeGiga">Twitter <img align="middle" alt="Anchabadze Giga | Twitter"  height="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
