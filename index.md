@@ -22,7 +22,7 @@
 
 
 ### My favorite quotes which inspire me to learn:
-> The expert in anything was once a biginner <br>
+> The expert in anything was once a beginner <br>
 > Believe you can and you are halfway there <br>
 > Without knowledge action is useless <br>
 > Forget your past, forget yourself and begin again right now <br>
