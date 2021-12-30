@@ -25,6 +25,7 @@ If you like my repositories, maybe you consider buying me a coffee
 -->
 - 🌱 I’m currently learning Ruby
 - 👯 I’m looking to collaborate on any useful opensource project
+- 🤔 Should I learn Dart PL?
 - 💡  Feel free to give me advice, tips, and tricks
 - 📫 How to reach me: text me on <a href="https://twitter.com/AnchabadzeGiga">Twitter <img align="middle" alt="Anchabadze Giga | Twitter"  height="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
