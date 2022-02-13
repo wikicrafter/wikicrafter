@@ -1,6 +1,6 @@
 # Hi there 👋
 
-* 😎 I'm Giga (he/him or they/them)
+* 😎 I'm Giga you can call me Charly (he/him or they/them)
 
 I'm huge fan of Open Source <br>
 <hr>
