@@ -16,7 +16,10 @@ Be a ✨ _special_ ✨
 If you like my repositories, maybe you consider buying me a coffee 
 <br><br>
 <a href='https://ko-fi.com/Y8Y134NET' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<br> Or here is my Eth. address:   0xaB1e9D89DAFBDf27Fb1D322D868b5A36cDbB11D5
+
 <hr>
+
 
 <!-- 💻📱📍🗺 I'm available for freelance jobs as a python programmer
 - 🔭 I’m currently working on Python
