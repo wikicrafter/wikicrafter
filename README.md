@@ -20,7 +20,6 @@ If you like my repositories, maybe you consider buying me a coffee
 
 <hr>
 
-
 <!-- 💻📱📍🗺 I'm available for freelance jobs as a python programmer
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning Ruby
