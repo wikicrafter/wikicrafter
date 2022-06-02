@@ -25,7 +25,7 @@ If you like my repositories, maybe you consider buying me a coffee
 - 🌱 I’m currently learning Ruby
 - 💡 Feel free to give me advice, tips, and tricks
 -->
-- 🌱 I’m currently learning Ruby
+- 🌱 I’m currently learning C# again 😅
 - 👯 I’m looking to collaborate on any useful opensource project
 - 🤔 Should I learn Dart PL?
 - 💡  Feel free to give me advice, tips, and tricks
