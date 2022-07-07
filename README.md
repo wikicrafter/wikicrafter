@@ -7,7 +7,7 @@ I'm huge fan of Open Source <br>
 I'm looking for a mentor <br>
 <hr>
 
-Be a ✨ _special_ ✨
+Be  ✨ _Altruistic_ ✨
 
 <!--[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y134NET)
 -->
