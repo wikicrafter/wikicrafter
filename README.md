@@ -13,10 +13,10 @@ Be  ✨ _Altruistic_ ✨
 -->
 ![](https://visitor-badge.glitch.me/badge?page_id=wikicrafter.wikicrafter) <br>
 <hr>
-If you like my repositories, maybe you consider buying me a coffee 
+If you want to support me, maybe you consider buying me a coffee 
 <br><br>
 <a href='https://ko-fi.com/Y8Y134NET' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-<br> Or here is my Eth. address:   0xaB1e9D89DAFBDf27Fb1D322D868b5A36cDbB11D5
+<br> Or here is my Eth. address:   0x3efbbc428f04d32d401903103fb964c74b3b7613
 
 <hr>
 
@@ -43,11 +43,9 @@ If you like my repositories, maybe you consider buying me a coffee
    
  <a href="https://twitter.com/NF_Avatars/status/1491318682944872448?ref_src=twsrc%5Etfw">February 9, 2022</a></blockquote> 
   
-  <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Looking forward to share my NFT&#39;s Check out this account on  <a href="https://t.co/oA2GquwYsa">OpenSea</a>
+
   
-  <a href="https://t.co/tkaDBybmMi">CatTDA collection on OpenSea</a>
-  
-  [ExtraRareX](https://t.co/oA2GquwYsa)
+
   
 <!-- #### If you want to support me with digital currency here is my binance QR:
 
