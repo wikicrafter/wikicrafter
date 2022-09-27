@@ -29,8 +29,6 @@ If you want to support me, maybe you consider buying me a coffee
 - 👯 I’m looking to collaborate on any useful opensource project
 - 🤔 Should I learn Dart PL?
 - 💡  Feel free to give me advice, tips, and tricks
-- 📫 How to reach me: text me on <a href="https://twitter.com/-------">Twitter <img align="middle" alt="Anchabadze Giga | Twitter"  height="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 
   
 
@@ -43,7 +41,12 @@ If you want to support me, maybe you consider buying me a coffee
   
 
   
-<!-- #### If you want to support me with digital currency here is my binance QR:
+<!--
+ - 📫 How to reach me: text me on <a href="https://twitter.com/-------">Twitter <img align="middle" alt="Anchabadze Giga | Twitter"  height="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
+
+#### If you want to support me with digital currency here is my binance QR:
 
 <img src="/anim/binance_receive.jpg" alt="Binance" width="200" height="250"> -->
 
