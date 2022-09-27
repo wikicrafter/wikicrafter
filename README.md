@@ -32,10 +32,9 @@ If you want to support me, maybe you consider buying me a coffee
 - 📫 How to reach me: text me on <a href="https://twitter.com/-------">Twitter <img align="middle" alt="Anchabadze Giga | Twitter"  height="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-  [![Top Languages I used](https://github-readme-stats.vercel.app/api/top-langs/?username=wikicrafter&layout=compact)](https://github.com/wikicrafter/github-readme-stats)
   
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=wikicrafter&show_icons=true&theme=gotham" alt="wikicrafter" /> 
+
   
 
     
