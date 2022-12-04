@@ -2,7 +2,8 @@
 
 * 😎 I'm Giga you can call me Charly (he/him or they/them)
 
-I'm huge fan of Open Source <br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20F757&width=435&lines=Huge+Open-Source+Fan)](https://git.io/typing-svg)
+
 <hr>
 I'm looking for a mentor <br>
 <hr>
