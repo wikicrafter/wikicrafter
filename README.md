@@ -1,4 +1,4 @@
-# Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20F757&width=435&lines=Hi+there)](https://git.io/typing-svg) 
 
 * 😎 I'm Giga you can call me Charly (he/him or they/them)
 
