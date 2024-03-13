@@ -14,14 +14,19 @@ Be  ✨ _Altruistic_ ✨
 -->
 ![](https://visitor-badge.glitch.me/badge?page_id=wikicrafter.wikicrafter) <br>
 <hr>
-If you want to support me, maybe you consider buying me a coffee 
+If you consider support me then:
 <br><br>
-<a href='https://ko-fi.com/Y8Y134NET' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-<br> Or here is my USDT address on Tron (TRC20):   TLL3LgZeCAn7QsJ8RZuADpn5mawbELwmgx
+<!--
+<a href='https://ko-fi.com/Y8Y134NET' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> -->
+<br> here is my USDT address on Tron (TRC20):   TLL3LgZeCAn7QsJ8RZuADpn5mawbELwmgx
 
 <hr>
 
-<!-- 💻📱📍🗺 I'm available for freelance jobs as a python programmer
+<!--
+
+<a href='https://ko-fi.com/Y8Y134NET' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+💻📱📍🗺 I'm available for freelance jobs as a python programmer
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning Ruby
 - 💡 Feel free to give me advice, tips, and tricks
