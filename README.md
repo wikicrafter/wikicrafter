@@ -18,7 +18,7 @@ If you consider support me then:
 <br><br>
 <!--
 <a href='https://ko-fi.com/Y8Y134NET' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> -->
-<br> here is my BTC address: 15wHK9i9YwJNhdRvXPdXQep8pyefd6ktj3
+<br> <a href='https://ko-fi.com/Y8Y134NET' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 <hr>
 
